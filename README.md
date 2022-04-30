@@ -2,7 +2,7 @@
 # Counsel of book 
 # Plan of action 
 Exploratory data analysis</br>
-Cleaning dataset</br>
+Data preprocessing</br>
 Feature Engineering</br>
 Feature  Selection </br>
 Model building using different techniques</br>
