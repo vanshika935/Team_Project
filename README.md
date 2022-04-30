@@ -10,5 +10,5 @@ Model deployment </br>
 # Team members 
 Vanshika</br>
 Ekta</br>
-R.Ritika</br>
+R. Ritika</br>
 Nisha</br>
