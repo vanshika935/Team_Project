@@ -1,5 +1,12 @@
 # Team_Project
 # Counsel of book 
+# Plan of action 
+Exploratory data analysis</br>
+Cleaning dataset</br>
+Feature Engineering</br>
+Feature  Selection </br>
+Model building using different techniques</br>
+Model deployment </br>
 # Team members 
 Vanshika</br>
 Ekta</br>
