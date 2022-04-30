@@ -1,5 +1,7 @@
 # Team_Project
 # Counsel of book 
+This project  aims to make it easy for user to find book of their choice  and  preferences. We will be building  a content based recommendation  system for the books and learn how to formulate  a recommendation  system for books using statistics  techniques and understand  how  it works.
+Content based recommendation  system  estimate  what a user may like based on user's  actions .It searches  for keyword  in database  and recommend similar products . 
 # Plan of action 
 Exploratory data analysis</br>
 Data preprocessing</br>
