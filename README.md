@@ -5,7 +5,6 @@ Content based recommendation  system  estimate  what a user may like based on us
 # Plan of action 
 Exploratory data analysis</br>
 Data preprocessing</br>
-Feature Engineering</br>
 Feature  Selection </br>
 Model building using different techniques</br>
 Model deployment </br>
