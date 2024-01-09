@@ -11,6 +11,11 @@ Content based recommendation  system  estimate  what a user may like based on us
 - Content based filtering
 - convert text to vectors using countvecterizer
 - calculate distance between vectors using cosine similarity
+# Python libraries used:
+- pandas
+- numpy
+- nltk
+- sklearn
 # Team members 🧑‍🤝‍🧑
 - Vanshika</br>
 - Ekta</br>
