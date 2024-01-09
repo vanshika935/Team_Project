@@ -8,7 +8,8 @@ Content based recommendation  system  estimate  what a user may like based on us
 - Model building using different techniques</br>
 - Model deployment </br>
 # Concepts Used 💡
-- Content based filtering
+- Content based filtering:
+  Content-based filtering is a technique used in recommender systems to recommend items (such as movies, books, music, or products) to users based on the characteristics or content of the items and the         preferences of the users. This approach relies on analyzing the features of items and creating user profiles to make recommendations.
 - convert text to vectors using countvecterizer
 - calculate distance between vectors using cosine similarity
 # Python libraries used:
