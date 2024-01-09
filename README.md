@@ -8,8 +8,13 @@ Data preprocessing</br>
 Feature  Selection </br>
 Model building using different techniques</br>
 Model deployment </br>
+# Concepts Used 
+- Content based filtering
+- convert text to vectors using countvecterizer
+- calculate distance between vectors using cosine similarity
 # Team members 
 Vanshika</br>
 Ekta</br>
 R. Ritika</br>
 Nisha</br>
+
